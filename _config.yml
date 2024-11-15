@@ -2,8 +2,8 @@ title:              Zhuang Kang
 email:              z.kang1009@gmail.com
 description:     
 author:             Zhuang Kang
-baseurl:            ""
-url:                "zk.git.io"
+baseurl:            "https://proskahn.github.io/zk.git.io/"
+url:                ""
 # Social Profiles
 # twitter_username:   
 github_username:    Proskahn
