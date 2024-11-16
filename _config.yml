@@ -2,7 +2,7 @@ title:              Zhuang Kang
 email:              z.kang1009@gmail.com
 description:     
 author:             Zhuang Kang
-baseurl:            "https://zk-git-io.vercel.app"
+baseurl:            "https://github.com/Proskahn/zk.git.io"
 url:                ""
 # Social Profiles
 # twitter_username:   
@@ -14,9 +14,9 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
-paginate:           5
+paginate:           10
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
