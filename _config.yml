@@ -2,7 +2,7 @@ title:              Zhuang Kang
 email:              z.kang1009@gmail.com
 description:     
 author:             Zhuang Kang
-baseurl:            "https://zk-git-io.vercel.app"
+baseurl:            "/zk.git.io"
 url:                ""
 # Social Profiles
 # twitter_username:   
@@ -14,7 +14,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
-paginate:           5
+paginate:           10
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
